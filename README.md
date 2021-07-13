@@ -1,4 +1,4 @@
-# bdd-cinema
+# database-cinema
 
 Modélisation de base de données mysql pour serveur local Mamp
 
